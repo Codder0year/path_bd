@@ -69,3 +69,5 @@ SELECT
         WHERE length(child.path) - length(replace(child.path, '/', '')) = 2
         GROUP BY 
             parent.name;
+
+практика метода 
