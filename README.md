@@ -70,4 +70,5 @@ SELECT
         GROUP BY 
             parent.name;
 
-практика метода 
+практика метода Materialized Path
+
